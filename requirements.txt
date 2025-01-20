@@ -1,5 +1,4 @@
 streamlit
-sys
 google.generativeai
 streamlit_folium
 folium
